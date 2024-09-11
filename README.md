@@ -24,10 +24,6 @@ Cenários Ajustados: Parâmetros financeiros-chave são ajustados para realizar 
 
 Dashboard Interativo: É criado um painel interativo para visualizar o desempenho financeiro, incluindo gráficos de linhas e de radar.
 Relatórios: Relatórios abrangentes são elaborados para resumir as principais descobertas da análise.
-**5. Apresentação:
-
-Preparação: Uma apresentação é preparada para resumir as principais conclusões da análise e previsões, destacando insights financeiros importantes.
-Ferramentas e Tecnologias:
 
 Python: Utilizado para processamento de dados, modelagem e visualização.
 Jupyter Notebook: Ambiente de desenvolvimento para análise e documentação.
