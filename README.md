@@ -1,3 +1,9 @@
+O código e as análises estão no arquivo Previsão de Desempenho Financeiro.ipynb
+Os gráfico interativos do final do projeto, o github não mostra, anexei um print deles nesse repositório.
+
+
+
+
 # Previsão-de-Desempenho-Financeiro
 Previsão de Desempenho Financeiro
 Resumo do Projeto: Análise e Previsão Financeira
