@@ -5,6 +5,7 @@ Os gráfico interativos do final do projeto, o github não mostra, anexei um pri
 
 
 Previsão de Desempenho Financeiro
+
 Resumo do Projeto: Análise e Previsão Financeira
 Objetivo: O projeto visa analisar dados financeiros e prever a receita futura para 2024. A análise é realizada utilizando dados históricos, com foco na identificação de tendências e padrões importantes para fornecer insights financeiros e recomendações.
 
